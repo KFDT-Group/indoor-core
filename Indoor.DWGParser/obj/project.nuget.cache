@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BctI/fIduBRgBM1XqIKDl26mxQ54YYzk6NtpSa7MrCUg3cXljOUtPd3xYgLj9bo/avPcZpdG8fyaOxwYi213mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\indoor-core\\Indoor.DWGParser\\Indoor.DWGParser.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://package-cache-nuget.query.consul-tech/repository/nuget-group-v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://crm-vsdev.bank24.int:8880/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
